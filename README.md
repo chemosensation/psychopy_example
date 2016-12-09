@@ -1,5 +1,5 @@
-# an example psychopy experiment
-*8th dec. '16 by lennart heim*
+# psychopy example experiment
+*8th dec. '16 by lennart heim. feel free to contact me lheim[at]ukaachen.de*
 
 ## important
 please adjust the COM port (see device management for the COM port) in the ‘trigger_odor’-routine and uncomment the code fragments!
@@ -7,8 +7,8 @@ please adjust the COM port (see device management for the COM port) in the ‘tr
 ## features
 
 - OLFmachine triggering
-- listening to breathe input from LabChart
-- analog scale with continuous key press
+- listening to breath input from LabChart
+- analog scale with continuous key press (not yet)
 
 
 ## KEY MAPPING
