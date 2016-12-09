@@ -6,9 +6,9 @@ please adjust the COM port (see device management for the COM port) in the ‘tr
 
 ## features
 
-* OLFmachine triggering
-* listening to breathe input from LabChart
-* analog scale with continuous key press
+- OLFmachine triggering
+- listening to breathe input from LabChart
+- analog scale with continuous key press
 
 
 ## KEY MAPPING
