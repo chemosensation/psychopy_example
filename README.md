@@ -12,5 +12,6 @@ please adjust the COM port (see device management for the COM port) in the ‘tr
 
 
 ## KEY MAPPING
-
-apple		      left index	(1)strawberry	  left thumb	(2)wood	       	right thumb	(3)pencil		    right index	(4)
+image | finger | key
+--- | --- | ---
+apple | left index | (1)strawberry | left thumb | (2)wood | right thumb | (3)pencil | right index | (4)
