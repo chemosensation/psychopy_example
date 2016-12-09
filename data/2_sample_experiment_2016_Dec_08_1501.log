@@ -1,0 +1,111 @@
+1.2612 	WARNING 	pyo audio lib was requested but not loaded: dlopen(/Applications/PsychoPy2.app/Contents/Resources/lib/python2.7/lib-dynload/_pyo.so, 2): Library not loaded: @executable_path/../Frameworks/liblo.7.dylib
+  Referenced from: /Applications/PsychoPy2.app/Contents/Resources/lib/python2.7/lib-dynload/_pyo.so
+  Reason: Incompatible library version: _pyo.so requires version 10.0.0 or later, but liblo.7.dylib provides version 9.0.0
+3.4560 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([ 0.,  0.,  0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0x10f5591b8>, name='window1', pos=[0, 0], screen=0, size=array([1440,  900]), stereo=False, units=u'norm', useFBO=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+3.4560 	EXP 	window1: recordFrameIntervals = False
+3.6214 	EXP 	window1: recordFrameIntervals = True
+3.7896 	DATA 	Mouse: wheel shift=(0,0), pos=(625,715)
+3.8051 	EXP 	window1: recordFrameIntervals = False
+3.8845 	EXP 	Created text_instruction = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text_instruction', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+3.8894 	EXP 	Created text_variables_task = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text_variables_task', opacity=1.0, ori=0, pos=array([ 200.,  600.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+3.8940 	EXP 	Created text_task = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text_task', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+3.9133 	EXP 	Created text_scanner = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text_scanner', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u"Waiting for scanner...\n(Press 'a')", units=u'norm', win=Window(...), wrapWidth=1)
+3.9176 	EXP 	Created text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=1)
+3.9209 	EXP 	Created stim_image_1 = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='stim_image_1', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 0.5,  0.5]), texRes=128, units=u'norm', win=Window(...))
+3.9341 	EXP 	Created text_7 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'black', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text_7', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 0.,  0.,  0.]), text=u'Only the picture for 10 seconds ...', units=u'norm', win=Window(...), wrapWidth=1)
+3.9367 	EXP 	Created stim_image_2 = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='stim_image_2', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 0.5,  0.5]), texRes=128, units=u'norm', win=Window(...))
+3.9523 	EXP 	Created text_breath = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'black', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text_breath', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 0.,  0.,  0.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+3.9558 	EXP 	Created stim_image_3 = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='stim_image_3', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 0.5,  0.5]), texRes=128, units=u'norm', win=Window(...))
+3.9688 	EXP 	Created text_5 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'black', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text_5', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 0.,  0.,  0.]), text=u'Triggering odor for 5 seconds ...', units=u'norm', win=Window(...), wrapWidth=1)
+3.9929 	EXP 	Created text_6 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text_6', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+4.0034 	EXP 	Created text_3 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text_3', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'Your answer was CORANS!', units=u'norm', win=Window(...), wrapWidth=1)
+4.0168 	EXP 	window1: units = 'norm'
+4.0716 	EXP 	window1: units = u'norm'
+4.0718 	EXP 	Created rating_scale = RatingScale(acceptKeys=['return'], acceptPreText=UNKNOWN, acceptSize=UNKNOWN, acceptText=u'accept?', autoLog=True, choices=False, depth=0, disappear=False, flipVert=False, high=1, kwargs=UNKNOWN, labels=list(...), leftKeys=['left'], lineColor='White', low=0, marker=ShapeStim(...), markerColor='DarkBlue', markerExpansion=UNKNOWN, markerStart=5.0, maxTime=0.0, minTime=0.4, mouseOnly=False, name='rating_scale', noMouse=False, pos=[0.0, -0.4], precision=100, respKeys=['0', '1'], rightKeys=['right'], scale=u'', self=UNKNOWN, showAccept=True, showValue=False, singleClick=False, size=0.6, skipKeys=['tab'], stretch=1.0, textColor='LightGray', textFont='Helvetica Bold', textSize=0.12, tickHeight=1.0, tickMarks=1.0, win=Window(...))
+4.0819 	EXP 	Created text_rating = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text_rating', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'Did you like it?', units=u'norm', win=Window(...), wrapWidth=1)
+4.0953 	EXP 	Created text_4 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text_4', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'Closing text goes here.\n\nBye!', units=u'norm', win=Window(...), wrapWidth=1)
+4.1401 	DATA 	Mouse: wheel shift=(1,0), pos=(625,715)
+4.1408 	DATA 	Mouse: wheel shift=(0,0), pos=(625,715)
+4.1412 	DATA 	Mouse: wheel shift=(1,0), pos=(625,715)
+4.1415 	DATA 	Mouse: wheel shift=(6,0), pos=(625,715)
+4.1549 	EXP 	rating_scale: flipVert = False
+4.1549 	EXP 	rating_scale: autoLog = True
+4.1549 	EXP 	text_instruction: text = u'Placeholder welcome text.\n\nEnter here basic information about the following task.\nIncluding instructions and how to response.\n\n- Press 1, 2, 3 or 4 to continue -'
+4.1549 	EXP 	text_instruction: autoDraw = True
+4.1558 	DATA 	Mouse: wheel shift=(0,0), pos=(625,715)
+4.1720 	DATA 	Mouse: wheel shift=(0,0), pos=(625,715)
+4.1891 	DATA 	Mouse: wheel shift=(0,0), pos=(625,715)
+4.2053 	DATA 	Mouse: wheel shift=(1,0), pos=(625,715)
+4.2208 	DATA 	Mouse: wheel shift=(0,0), pos=(625,715)
+4.2560 	DATA 	Mouse: wheel shift=(0,0), pos=(625,715)
+4.2705 	DATA 	Mouse: wheel shift=(0,0), pos=(625,715)
+4.2877 	DATA 	Mouse: wheel shift=(0,0), pos=(625,715)
+4.3051 	DATA 	Mouse: wheel shift=(0,0), pos=(625,715)
+5.2242 	DATA 	Keypress: 2
+5.2334 	EXP 	Imported stimuli_data.xlsx as conditions, 16 conditions, 9 params
+5.2339 	EXP 	Created sequence: random, trialTypes=16, nReps=1, seed=None
+5.2344 	EXP 	New trial (rep=0, index=0): {u'stim_nr': 4, u'odor_channel': 1, u'corrAns_odor': 1, u'corrAns_pic': 4, u'congruent': 0, u'stim_name': None, u'pic_file': u'pencil.jpg', u'pic_name': u'pencil', u'odor_name': u'apple'}
+5.2709 	EXP 	text_instruction: autoDraw = False
+5.2709 	EXP 	text_variables_task: text = 'Stim Nr. 4of 16'
+5.2709 	EXP 	text_task: text = u'Task instruction goes here.\n In the following task you have to ...\n- Press 1, 2, 3 or 4 to continue -'
+5.2709 	EXP 	text_variables_task: autoDraw = True
+5.2709 	EXP 	text_task: autoDraw = True
+6.0554 	DATA 	Keypress: 2
+6.0722 	EXP 	text_variables_task: autoDraw = False
+6.0722 	EXP 	text_task: autoDraw = False
+6.0722 	EXP 	text_scanner: autoDraw = True
+7.1071 	DATA 	Keypress: a
+7.1228 	EXP 	text_scanner: autoDraw = False
+7.1228 	EXP 	text: autoDraw = True
+12.1584 	EXP 	text: autoDraw = False
+12.1584 	EXP 	stim_image_1: image = u'pencil.jpg'
+12.1584 	EXP 	stim_image_1: autoDraw = True
+12.1584 	EXP 	text_7: autoDraw = True
+22.1461 	EXP 	stim_image_1: autoDraw = False
+22.1461 	EXP 	text_7: autoDraw = False
+22.1461 	EXP 	stim_image_2: image = u'pencil.jpg'
+22.1461 	EXP 	stim_image_2: autoDraw = True
+22.1461 	EXP 	text_breath: autoDraw = True
+28.8517 	DATA 	Keypress: e
+28.8825 	EXP 	stim_image_2: autoDraw = False
+28.8825 	EXP 	text_breath: autoDraw = False
+28.8825 	EXP 	stim_image_3: image = u'pencil.jpg'
+28.8825 	EXP 	stim_image_3: autoDraw = True
+28.8825 	EXP 	text_5: autoDraw = True
+33.8685 	EXP 	stim_image_3: autoDraw = False
+33.8685 	EXP 	text_5: autoDraw = False
+33.8685 	EXP 	stim_image_3: autoDraw = False
+33.8685 	EXP 	text_5: autoDraw = False
+33.8685 	EXP 	text_6: autoDraw = True
+74.1910 	DATA 	Keypress: 6
+74.5912 	DATA 	Keypress: j
+74.8260 	DATA 	Keypress: t
+75.4911 	DATA 	Keypress: 5
+76.0245 	DATA 	Keypress: 4
+76.0393 	EXP 	text_6: autoDraw = False
+76.0393 	EXP 	text_3: autoDraw = True
+81.8637 	DATA 	Keypress: 3
+86.0343 	EXP 	RatingScale rating_scale: reset()
+86.0453 	EXP 	text_3: autoDraw = False
+86.0453 	EXP 	rating_scale: autoDraw = True
+86.0453 	EXP 	text_rating: autoDraw = True
+87.6806 	DATA 	Keypress: right
+88.0168 	DATA 	Keypress: left
+88.2163 	DATA 	Keypress: left
+88.3815 	DATA 	Keypress: left
+89.3650 	DATA 	Keypress: return
+89.3674 	DATA 	RatingScale rating_scale: (key response) rating=0.97
+89.3675 	DATA 	RatingScale rating_scale: rating RT=3.333
+89.3676 	DATA 	RatingScale rating_scale: history=[(5.0, 0.0), (1.0, 1.648), (0.99, 1.982), (0.98, 2.182), (0.97, 2.35), (0.97, 3.333)]
+89.3805 	EXP 	New trial (rep=0, index=1): {u'stim_nr': 5, u'odor_channel': 2, u'corrAns_odor': 2, u'corrAns_pic': 1, u'congruent': -1, u'stim_name': None, u'pic_file': u'apple.jpg', u'pic_name': u'apple', u'odor_name': u'strawberry'}
+89.4134 	EXP 	rating_scale: autoDraw = False
+89.4134 	EXP 	text_rating: autoDraw = False
+89.4134 	EXP 	text_variables_task: text = 'Stim Nr. 5of 16'
+89.4134 	EXP 	text_task: text = u'Task instruction goes here.\n In the following task you have to ...\n- Press 1, 2, 3 or 4 to continue -'
+89.4134 	EXP 	text_variables_task: autoDraw = True
+89.4134 	EXP 	text_task: autoDraw = True
+91.7498 	DATA 	Keypress: 2
+91.7647 	EXP 	text_variables_task: autoDraw = False
+91.7647 	EXP 	text_task: autoDraw = False
+91.7647 	EXP 	text_scanner: autoDraw = True
+92.2999 	DATA 	Keypress: escape
