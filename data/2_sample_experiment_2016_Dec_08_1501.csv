@@ -1,3 +1,0 @@
-stim_nr,odor_channel,corrAns_odor,corrAns_pic,congruent,stim_name,pic_file,pic_name,odor_name,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,key_instruction.keys,key_instruction.rt,key_task.keys,key_task.rt,key_scanner.keys,key_scanner.rt,key_listen_to_breath.keys,key_listen_to_breath.rt,key_answer.keys,key_answer.corr,key_answer.rt,rating_scale.response,rating_scale.rt,date,frameRate,expName,session,participant,
-,,,,,,,,,,,,,2,1.06959199905,,,,,,,,,,,,2016_Dec_08_1501,59.3777818046,sample_experiment,001,2,
-4,1,1,4,0,None,pencil.jpg,pencil,apple,0,0,0,3,,,2,0.784865856171,a,1.03557801247,e,6.70589804649,4,1,42.1564459801,0.97,3.333,2016_Dec_08_1501,59.3777818046,sample_experiment,001,2,
